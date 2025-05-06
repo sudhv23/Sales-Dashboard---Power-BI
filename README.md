@@ -33,9 +33,3 @@ This Power BI dashboard provides an interactive way for managers to track key sa
 1. Open the **Sales Dashboard** in **Power BI Service**.
 2. Interact with the pinned visuals to explore key sales insights.
 3. Use the **Q&A** feature to ask questions about sales data.
-
----
-
-Feel free to explore the dashboard and get insights on **Top Selling Bikes**, **Target Sales**, and more.
-
-Let me know if you need any further details or help uploading it to GitHub!
